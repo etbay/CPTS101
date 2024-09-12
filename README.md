@@ -1,4 +1,4 @@
 # CPTS101
 
-Evan Bay
-evan.bay@wsu.edu
+<h1>Evan Bay</h1>
+<p> evan.bay@wsu.edu </p>
